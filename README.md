@@ -1,1 +1,1 @@
-# DSCI531_Project
+# This is the repo for DSCI531 project
